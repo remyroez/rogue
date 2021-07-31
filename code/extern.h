@@ -35,7 +35,7 @@
 #define HAVE_KILLCHAR 1
 #elif defined(_WIN32)
 #define HAVE_CURSES_H
-#define HAVE_TERM_H
+//#define HAVE_TERM_H
 #define HAVE__SPAWNL
 #define HAVE_SYS_TYPES_H
 #define HAVE_PROCESS_H
